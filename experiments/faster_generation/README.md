@@ -1,4 +1,4 @@
-# Assisted Generation Benchmarks
+# Assisted Generation Benchmarks.
 
 Example command:
 ```
