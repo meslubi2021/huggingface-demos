@@ -1,4 +1,4 @@
-# Hugging Face 🤗 Demos
+# Hugging Face 🤗 Demos.
 This is a collection of personal demos/scripts/colabs using Hugging Face 🤗 tools, organized by modality.
 Framework-specific demos have their link/filename starting with the framework name (`flax`, `pt`, or `tf`) to facilitate search.
 
